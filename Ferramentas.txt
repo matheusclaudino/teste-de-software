@@ -1,0 +1,40 @@
+As ferramentas mostradas no curso podem ser classificadas como:
+
+Aquisição de dados:
+
+Todas as ferramentas pagas possuem este recurso
+Medição estática:
+
+IBM Rational Perfomance Testing
+Rational Functional Tester
+HP QuickTest Professional
+HP LoadRunner
+TestComplete
+Medição dinâmica
+
+Rational Robot
+Rational Functional Tester
+HP QuickTest Professional
+HP LoadRunner
+TestComplete
+JMeter
+Bugzilla
+BugNET
+TRAC
+Simuladores:
+
+IBM Rational Perfomance Testing
+Rational Robot
+Rational Functional Tester
+HP QuickTest Professional
+HP LoadRunner
+JMeter
+Gerenciamento de Teste
+
+TestLink
+Mantis
+TestMaster
+Todas as ferramentas pagas possuem este recurso
+E você pode ver uma lista de todas as ferramentas de teste open source http://www.opensourcetesting.org/functional.php
+
+Qualquer dúvida estamos à disposição.
